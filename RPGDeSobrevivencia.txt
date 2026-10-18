@@ -1,0 +1,6 @@
+﻿A construção começou em 17:37...
+1>------ Compilação iniciada: Projeto: GitHub, Configuração: Debug Any CPU ------
+1>Ignorando analisadores para acelerar a construção. Você pode executar o comando 'Build' ou 'Rebuild' para executar os analisadores.
+1>GitHub -> C:\Users\pedro\source\repos\GitHub\GitHub\bin\Debug\net8.0\GitHub.dll
+========== Compilação: 1 bem-sucedida, 0 com falha, 0 atualizada, 0 ignorada ==========
+========== Compilação concluído às 17:37 e levou 00,537 segundos ==========
